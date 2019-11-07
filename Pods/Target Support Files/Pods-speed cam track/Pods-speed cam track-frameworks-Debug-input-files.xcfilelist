@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-speed cam track/Pods-speed cam track-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AEXML/AEXML.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Solar/Solar.framework
+${BUILT_PRODUCTS_DIR}/SwiftOverpass/SwiftOverpass.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

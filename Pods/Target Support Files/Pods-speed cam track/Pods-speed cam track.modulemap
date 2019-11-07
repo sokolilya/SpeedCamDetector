@@ -1,0 +1,6 @@
+framework module Pods_speed_cam_track {
+  umbrella header "Pods-speed cam track-umbrella.h"
+
+  export *
+  module * { export * }
+}

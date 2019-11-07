@@ -1,0 +1,32 @@
+PODS:
+  - AEXML (4.2.2)
+  - Alamofire (4.8.2)
+  - Solar (2.1.0)
+  - SwiftOverpass (1.0.3):
+    - AEXML (~> 4.2.2)
+    - Alamofire (~> 4.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Solar (~> 2.1)
+  - SwiftOverpass
+  - SwiftyJSON (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AEXML
+    - Alamofire
+    - Solar
+    - SwiftOverpass
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AEXML: 5ebafc1b75e0bcf0f1b09b8ca8fed2d5a199479b
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+  SwiftOverpass: 8c796d887465581359b8fd0b52aabdbdc0d1dd9b
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: b2091254064d5c43f97438009018937b16773411
+
+COCOAPODS: 1.7.5
